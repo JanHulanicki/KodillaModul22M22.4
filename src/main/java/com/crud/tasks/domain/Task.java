@@ -1,15 +1,12 @@
 package com.crud.tasks.domain;
-
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
-
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter
