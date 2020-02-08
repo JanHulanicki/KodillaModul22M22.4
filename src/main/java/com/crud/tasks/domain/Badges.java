@@ -6,6 +6,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Getter
 public class Badges {
-   // int votes;
+    int votes;
     AttachmentByType attachmentByType;
 }
